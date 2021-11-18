@@ -1,0 +1,22 @@
+.choice-card {
+  margin: 40px 50px;
+  padding: 20px;
+  color: #97a75e;
+  font-size: 30px;
+  border-radius: 25px;
+  text-transform: uppercase;
+  background-color: #fefae0;
+  border: 5px dashed #ccd5ae;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
