@@ -24,7 +24,7 @@ const PublicNavbar = () => {
         </Navbar.Brand>
         <Nav className="mr-auto"></Nav>
         <Nav>
-          <a href="#your_github_repo_link" target="_blank">
+          <a href="https://github.com/trungle2910/rock_paper_sissor" target="_blank">
             <img src="../images/github_icon.png" alt="Github" width="32px" />
           </a>
         </Nav>
